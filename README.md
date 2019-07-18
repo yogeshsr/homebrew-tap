@@ -7,4 +7,6 @@ check brew create
 --tap
 --set-version
 
+shasum -a 256  ~/go/src/github.com/yogeshsr/kafka-protobuf-console-consumer/kafka-protobuf-console-consumer-1.0.tar.gz
+
 ```
