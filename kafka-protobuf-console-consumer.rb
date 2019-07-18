@@ -4,8 +4,8 @@
 class KafkaProtobufConsoleConsumer < Formula
   desc ""
   homepage ""
-  url "https://github.com/yogeshsr/kafka-protobuf-console-consumer/raw/master/kafka-protobuf-console-consumer-0.0.2.tar.gz"
-  sha256 "2b85f50f1154118bf8f5c4521ae66b7d948d4628c949f8ab10ecd4199d2e3497"
+  url "https://github.com/yogeshsr/kafka-protobuf-console-consumer/raw/master/kafka-protobuf-console-consumer-2.0.0.tar.gz"
+  sha256 "e17c4bee88a52ae11e003d30f42340fd7853af86abc39d5089a10f30050dc2f0"
   # depends_on "cmake" => :build
 
   def install
