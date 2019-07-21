@@ -20,5 +20,6 @@ https://robdalton.me/create-your-own-brew-package/
 
 /usr/local/Homebrew/Library/Taps/yogeshsr/homebrew-tap/kafka-protobuf-console-consumer.rb
 
+`-ldflags "-X main.versionInfo=abc -X main.versionDate=`date -u +.%Y%m%d.%H%M%S`"`
 
 ```
